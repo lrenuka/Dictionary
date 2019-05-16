@@ -1,0 +1,19 @@
+                                                    Meanings,,,
+                      English,                      Telugu(literal meaning),English (literal meaning),Computer
+Incompatible,Ananukūla,(of one thing or person) not consistent or able to coexist with(another),
+Implicit,,,
+process,Prakriya,a series of actions or steps taken in order to achieve a particular end.,"an instance of a program being executed in a multitasking operating system, typically running in an environment that protects it from other processes."
+,,,
+ stack,stack,"a pile of objects, typically one that is neatly arranged.",a set of storage locations which store data in such a way that the most recently stored item is the first to be retrieved.
+,,,
+heap,Niṇḍugā,an untidy collection of objects placed haphazardly on top of each other.,
+,,,
+call stack,,,"A stack is printed showing how the functions are stack on top each other. ... Temporarily store: When a function is invoked (called), the function, its parameters, and variables are pushed into the call stack to form a stack frame. This stack frame is a memory location in the stack"
+,,,
+code,,"a system of words, letters, figures, or symbols used to represent others, especially for the purposes of secrecy.","
+
+program instructions."
+,,,
+memory leak,,,"a failure in a program to release discarded memory, causing impaired performance or failure."
+,,,
+source code,,,a text listing of commands to be compiled or assembled into an executable computer program.
